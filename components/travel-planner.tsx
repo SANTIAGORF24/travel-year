@@ -50,7 +50,7 @@ interface TripData {
 
 // JSON Bin API endpoints
 const JSON_BIN_API = "https://api.jsonbin.io/v3/b"
-const JSON_BIN_API_KEY = "$2a$10$Uf/MrAXPXQZLzBJL9kJxK.GzRdTCgdOGxuaAYiiAVKGjK2tjCUg9C" // Public API key for demo
+const JSON_BIN_API_KEY = "$2a$10$o7Bks7j8unujXZQWRQwPVuujBrraUTM12KuVdlfIHAjFbslGzCowe" // Public API key for demo
 
 export default function TravelPlanner() {
   // Default empty trip
